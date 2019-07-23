@@ -1,0 +1,35 @@
+@charset "utf-8";
+
+
+.dis_n {
+    display: none;
+}
+
+.ov-hidden{
+    overflow: hidden;
+}
+
+.border-none {
+    border: none !important;
+}
+
+
+.vr_banner_pages {
+    line-height: 20px;
+}
+
+.vr_banner_pages .swiper-pagination-bullet {
+    background: #fff;
+    width: 20px;
+    height: 20px;
+    opacity: 1;
+    border-radius: 20px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.vr_banner_pages .swiper-pagination-bullet-active {
+    width: 100px;
+    height: 15px;
+    margin-top: -12px;
+}
